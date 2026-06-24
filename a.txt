@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 a.txt
 bbbb
 한줄 추가
 joo
+=======
+1
+2
+3
+4
+5
+>>>>>>> feature/test
